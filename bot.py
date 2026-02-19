@@ -5,7 +5,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 # ---------- НАСТРОЙКИ ----------
 TELEGRAM_TOKEN = "8527747303:AAFBqfIptwci2CDaB-tT8eJq_XTymRzqjwg"
-GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzJZo-z_RghykX9z-F-XxYd2lL-yxDsEF_7Ya72kuzAmUT7uwrSRKVyLu_rGaIoBc1Thg/exec"  # из шага 2
+GOOGLE_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzJZo-z_RghykX9z-F-XxYd2lL-yxDsEF_7Ya72kuzAmUT7uwrSRKVyLu_rGaIoBc1Thg/exe"  # из шага 2
 
 # ---------- ФОРМАТ СООБЩЕНИЯ ----------
 # Пример: ангел + слеза богов + титаниум = крылья
